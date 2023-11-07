@@ -16,7 +16,7 @@
   }
 }
 @media (max-width: 1199px) {
-  .feature-banner .opacity h2 {padding: 0;}
+  .feature-banner2 .opacity h2 {padding: 0;}
   .theme-footer-two .top-footer .footer-gallery .wrapper {padding-right: 0;}
   .shop-details .product-details .product-info {padding-left: 0;}
 }
@@ -105,7 +105,7 @@
 
 @media (min-width: 768px) and (max-width: 991px) {
   .header-one .top-header .address-wrapper .address:first-child {margin-right: 20px;}
-  .feature-banner .opacity h2 {font-size: 38px;line-height: 50px;}
+  .feature-banner2 .opacity h2 {font-size: 38px;line-height: 50px;}
   .service-style-one .single-service .text {padding-left: 10px;padding-right: 5px;}
   .theme-footer-one .bottom-footer ul li a {margin-left: 20px;}
   .blog-details .single-blog .post-meta .mark-text .inner-text {padding-top: 80px;}
@@ -161,8 +161,8 @@
   .section-spacing {margin-bottom: 60px;}
   .about-compnay .mission-goal li h4 {font-size: 18px;}
   .about-compnay .mission-goal li .icon {font-size: 35px;}
-  .feature-banner .opacity h2 {font-size: 35px;line-height: 45px;}
-  .feature-banner .opacity,.testimonial-section .overlay,.theme-counter .bg {padding: 60px 0;}
+  .feature-banner2 .opacity h2 {font-size: 35px;line-height: 45px;}
+  .feature-banner2 .opacity,.testimonial-section .overlay,.theme-counter .bg {padding: 60px 0;}
   .service-style-one .contact-text h5:before {display: none;}
   .testimonial-section .wrapper p {font-size: 18px;line-height: 27px;font-weight: normal;}
   .theme-counter h2 {font-size: 38px;}
