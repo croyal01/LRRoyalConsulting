@@ -24,7 +24,7 @@
 
 @media (min-width: 992px) and (max-width: 1199px) {
   .top-feature .main-content {padding-left: 10%;padding-right: 10%;}
-  .header-one .top-header .address-wrapper .address:first-child {margin-right: 20px;}
+  .header-one .top-header .address-wrapper .Location:first-child {margin-right: 20px;}
   .header-one .top-header .address-wrapper .address {padding-right: 20px;}
   #mega-menu-holder>ul> li> a {padding-right: 25px;padding-left: 15px;}
   .header-one .theme-menu-wrapper .bg-wrapper {padding-left: 15px;}
@@ -104,7 +104,7 @@
 /*(max-width: 991px)*/
 
 @media (min-width: 768px) and (max-width: 991px) {
-  .header-one .top-header .address-wrapper .address:first-child {margin-right: 20px;}
+  .header-one .top-header .address-wrapper .Location:first-child {margin-right: 20px;}
   .feature-banner2 .opacity h2 {font-size: 38px;line-height: 50px;}
   .service-style-one .single-service .text {padding-left: 10px;padding-right: 5px;}
   .theme-footer-one .bottom-footer ul li a {margin-left: 20px;}
